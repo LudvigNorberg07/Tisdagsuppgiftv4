@@ -52,9 +52,22 @@ h1{
 }
 #first a{
     text-decoration: none;
+
 }
+
+#first a:hover{
+    color:#94bbff;
+}
+
 .content{
     margin-top:10rem;
+}
+#Second{
+    display:flex;
+    flex-direction: column;
+    font-size: 1rem;
+    font-family: "Science Gothic", sans-serif;
+    font-style: normal;
 }
 ul{
     margin-top:2rem;
